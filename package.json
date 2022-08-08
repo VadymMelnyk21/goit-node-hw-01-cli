@@ -1,0 +1,24 @@
+{
+  "name": "goit-node-hw-01-cli",
+  "version": "1.0.0",
+  "description": "goit-node-hw-01-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadymMelnyk21/goit-node-hw-01-cli.git"
+  },
+  "author": "Vadym Melnyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadymMelnyk21/goit-node-hw-01-cli/issues"
+  },
+  "homepage": "https://github.com/VadymMelnyk21/goit-node-hw-01-cli#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
