@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/VadymMelnyk21/goit-node-hw-01-cli#readme",
   "dependencies": {
-    "nodemon": "^2.0.19"
+    "commander": "^9.4.0",
+    "nodemon": "^2.0.19",
+    "yargs": "^17.5.1"
   }
 }
